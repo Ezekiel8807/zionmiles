@@ -1,9 +1,10 @@
 header {
-    background-color: #3939f3;
+    background-color: #008bdb;
 }
 
 header h1{
     color: #ffffff;
     padding: 10px;
+    font-weight: bold;
     text-align: center;
 }

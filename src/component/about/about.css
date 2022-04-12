@@ -1,0 +1,16 @@
+.about {
+    padding: 20px;
+}
+.photo {
+    text-align: center;    
+}
+
+.photo img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;   
+}
+
+.summary h3 {
+    font-weight: bold;
+}

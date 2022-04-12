@@ -6,8 +6,8 @@ const Footer = () =>{
 
     return(
         <footer>
-            <h4> &copy; Copyright Zionmiles </h4>
-            <h3> All Right Reserved. 2022 </h3>
+            <p> &copy; Copyright Zionmiles </p>
+            <p> All Right Reserved. 2022 </p>
         </footer>
     );
 }
