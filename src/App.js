@@ -29,7 +29,7 @@ function App() {
 
           <Button />
 
-          <Showcase image={'/asset/img/d.jpeg'}/>
+          <Showcase image={'/asset/img/d.jpeg'}/><br/>
 
           <p className='prag'>This strategy works for anyone and can work for you too, even if:</p>
           <ul className='preque'>
@@ -40,15 +40,15 @@ function App() {
 
           <p>I'll be showing the marketing me and my students have been using to make at least ₦500,000 weekly from this business model.</p>
 
-          <Button />
+          <Button /><br/>  
 
-          <About />
-
-          <Button /><br/>          
           <History />
 
           <Button />
 
+          <About />
+
+          <Button />
         </div>
       <Footer/>
     </div>
