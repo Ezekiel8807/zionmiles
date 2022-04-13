@@ -2,15 +2,16 @@
     padding: 20px;
 }
 .photo {
-    text-align: center;    
+    text-align: center;
 }
 
 .photo img {
     width: 200px;
     height: 200px;
     border-radius: 50%;   
+    vertical-align: middle; 
 }
 
-.summary h3 {
+.summary h6 {
     font-weight: bold;
 }
