@@ -16,7 +16,6 @@ function App() {
           <p>I have a recipe that has made me and my students make over <b>100k - 500K</b> in less than a month</p>
 
           <Showcase image={'/asset/img/c.jpeg'}/><br/>
-          <Button /><br/>
 
           <div className='ad'>
             <h3>This CENTURY OLD Business model is called Affiliate Marketing and it's an EVER-GREEN system. 
@@ -26,8 +25,9 @@ function App() {
             <h4>
               But the most important thing is not the business model, the important thing is the profitable strategy to make money from it. And that is what I want to show you.
             </h4>
-          </div>
+          </div><br/>
 
+          <Button />
 
           <Showcase image={'/asset/img/d.jpeg'}/>
 
