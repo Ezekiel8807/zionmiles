@@ -15,3 +15,7 @@
 .summary h6 {
     font-weight: bold;
 }
+
+.summary p {
+    text-align: justify;
+}
