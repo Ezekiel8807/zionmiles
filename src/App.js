@@ -4,21 +4,25 @@ import Footer from "./component/footer/Footer";
 import About from "./component/about/About";
 import Button from "./component/button/Button";
 import History from './component/history/History';
+import Showcase from './component/showcase/Showcase';
 
 function App() {
   return (
     <div className="app">
       <Header/>
         <div className="container">
-          <h2>Making money hasnt be easy but guess <b>what?</b></h2>
+          <h2 className='head2'>Making money hasnt be easy but guess <b>what?</b></h2>
 
           <p>I have a recipe that has made me and my students make over <b>100k - 500K</b> in less than a month</p>
 
-          <p>This strategy works for anyone and can work for you too, even if:</p>
-
+          <Showcase image={'/asset/img/c.jpeg'}/><br/>
           <Button />
 
-          <ul>
+
+          <Showcase image={'/asset/img/d.jpeg'}/>
+
+          <p className='prag'>This strategy works for anyone and can work for you too, even if:</p>
+          <ul className='preque'>
             <li>No experience</li>
             <li>No laptops</li>
             <li>No products to sell</li>
@@ -28,8 +32,7 @@ function App() {
 
           <About />
 
-          <Button />
-          
+          <Button /><br/>          
           <History />
 
           <Button />
