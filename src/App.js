@@ -16,7 +16,17 @@ function App() {
           <p>I have a recipe that has made me and my students make over <b>100k - 500K</b> in less than a month</p>
 
           <Showcase image={'/asset/img/c.jpeg'}/><br/>
-          <Button />
+          <Button /><br/>
+
+          <div className='ad'>
+            <h3>This CENTURY OLD Business model is called Affiliate Marketing and it's an EVER-GREEN system. 
+              It has been here for over a century and it will still be here as long as people still buy and sell.
+            </h3>
+
+            <h4>
+              But the most important thing is not the business model, the important thing is the profitable strategy to make money from it. And that is what I want to show you.
+            </h4>
+          </div>
 
 
           <Showcase image={'/asset/img/d.jpeg'}/>
@@ -27,6 +37,8 @@ function App() {
             <li>No laptops</li>
             <li>No products to sell</li>
           </ul>
+
+          <p>I'll be showing the marketing me and my students have been using to make at least ₦500,000 weekly from this business model.</p>
 
           <Button />
 

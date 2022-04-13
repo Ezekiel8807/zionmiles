@@ -21,6 +21,7 @@ const History = () => {
                     <img src='/asset/img/e.jpeg' alt='wallet'/>
                     </div>
                 </div><br/>
+
             </div><br/>
         </div> 
     )
