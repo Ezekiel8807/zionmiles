@@ -12,7 +12,11 @@
 
 .ad {
     padding: 10px;
-    background-color: #ddd;
+    color: white;
+    background: -webkit-linear-gradient(#008bdb,#333333);
+    background: -o-linear-gradient(#008bdb,#333333);
+    background: -moz-linear-gradient(#008bdb,#333333);
+    background: linear-gradient(#008bdb,#333333);
 }
 
 .ad h3{
