@@ -10,7 +10,7 @@ const About = () =>{
 
                 <div className='col-md-6'>
                     <div className='photo'>
-                        <img src={'asset/img/a.png'} alt='about-img'/>
+                        <img src={'asset/img/a.jpg'} alt='about-img'/>
                     </div>
                 </div>
 
